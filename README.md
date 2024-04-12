@@ -19,7 +19,6 @@ $ yarn
 ## Subir docker e configurar o banco
 
 ```bash
-# unit tests
 $ yarn up
 ```
 
